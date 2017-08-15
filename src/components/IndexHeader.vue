@@ -6,21 +6,7 @@
 		</div>
 		<div class="headcen"><input type="text" name="" placeholder="搜索商家、商品" /></div>
 		<div class="headbott">
-			<a href="javascript">麦乌烧</a>
-			<a href="javascript">泡面</a>
-			<a href="javascript">饺子</a>
-			<a href="javascript">蟹煲</a>
-			<a href="javascript">羊肉串</a>
-			<a href="javascript">薯条</a>
-			<a href="javascript">黄焖鸡</a>
-			<a href="javascript">比萨</a>
-			<a href="javascript">甜点</a>
-			<a href="javascript">麦乌烧</a>
-			<a href="javascript">麦乌烧</a>
-			<a href="javascript">麦乌烧</a>
-			<a href="javascript">麦乌烧</a>
-			<a href="javascript">麦乌烧</a>
-			<a href="javascript">麦乌烧</a>
+			<a href="javascript" v-for = "item in items">{{item.title}}</a>
 		</div>
 	</header>
 </template>
@@ -29,7 +15,25 @@
 	export default {
 		name: "IndexHeader",
 		data(){
-
+			return {
+				items : [
+					{title : "麦乌烧"},
+					{title : "泡面"},
+					{title : "饺子"},
+					{title : "蟹煲"},
+					{title : "羊肉串"},
+					{title : "薯条"},
+					{title : "黄焖鸡"},
+					{title : "比萨"},
+					{title : "甜点"},
+					{title : "麦乌烧"},
+					{title : "麦乌烧"},
+					{title : "麦乌烧"},
+					{title : "麦乌烧"},
+					{title : "麦乌烧"},
+					{title : "麦乌烧"}
+				]
+			}
 		}
 	}
 </script>
