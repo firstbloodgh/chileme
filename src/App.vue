@@ -2,17 +2,21 @@
   <div id="app">
     <router-view></router-view>
     <index-header></index-header>
+    <index-type></index-type>
+    <index-recgoods></index-recgoods>
   </div>
 </template>
 
 
 <script>
 import indexHeader from "./components/IndexHeader"
+import indexType from "./components/IndexType"
+import indexRecgoods from "./components/IndexRecgoods"
 
 export default {
   name: 'app',
   components: {
-    indexHeader
+    indexHeader , indexType , indexRecgoods
   }
 }
 </script>

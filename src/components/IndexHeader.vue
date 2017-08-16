@@ -17,21 +17,21 @@
 		data(){
 			return {
 				items : [
-					{title : "麦乌烧"},
-					{title : "泡面"},
-					{title : "饺子"},
-					{title : "蟹煲"},
-					{title : "羊肉串"},
-					{title : "薯条"},
-					{title : "黄焖鸡"},
-					{title : "比萨"},
-					{title : "甜点"},
-					{title : "麦乌烧"},
-					{title : "麦乌烧"},
-					{title : "麦乌烧"},
-					{title : "麦乌烧"},
-					{title : "麦乌烧"},
-					{title : "麦乌烧"}
+					{title : "麦乌烧" , url : 'javascript'},
+					{title : "泡面" , url : 'javascript'},
+					{title : "饺子" , url : 'javascript'},
+					{title : "蟹煲" , url : 'javascript'},
+					{title : "羊肉串" , url : 'javascript'},
+					{title : "薯条" , url : 'javascript'},
+					{title : "黄焖鸡" , url : 'javascript'},
+					{title : "比萨" , url : 'javascript'},
+					{title : "甜点" , url : 'javascript'},
+					{title : "麦乌烧" , url : 'javascript'},
+					{title : "麦乌烧" , url : 'javascript'},
+					{title : "麦乌烧" , url : 'javascript'},
+					{title : "麦乌烧" , url : 'javascript'},
+					{title : "麦乌烧" , url : 'javascript'},
+					{title : "麦乌烧" , url : 'javascript'}
 				]
 			}
 		}
