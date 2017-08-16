@@ -1,6 +1,6 @@
 <template>
 	<div class="types">
-		<div class="type" v-for = "nav in navs">
+		<div class="type-list" v-for = "nav in navs">
 			<a :href="nav.url">
 				<img :src="nav.imgurl">
 				<p>{{nav.title}}</p>
@@ -36,17 +36,17 @@
 		height: 4.72rem;
 		background-color: #ffffff;
 	}
-	.type{
+	.type-list{
 		height: 1.717333rem;
 		width: 25%;
 		float: left;
 		text-align: center;
 		margin-top:0.293333rem;
 	}
-	.type p{
+	.type-list p{
 		margin-top: 0.133333rem;
 	}
-	.type img{
+	.type-list img{
 		width: 1.2rem;
 		height: 1.2rem;
 	}

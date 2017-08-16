@@ -1,7 +1,6 @@
 <template>
 	<section class="recgoods">
 		<h2 id="tits">推荐商家</h2>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -27,7 +26,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -53,7 +51,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -79,7 +76,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -105,7 +101,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -131,7 +126,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -157,7 +151,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -183,7 +176,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -209,7 +201,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -235,7 +226,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -261,7 +251,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
 		<section class="list">
 			<div class="left-list">
 				<img src="https://fuss10.elemecdn.com/0/2c/b4211d5dca701cf349ea842a49165jpeg.jpeg?imageMogr/thumbnail/!120x120r/gravity/Center/crop/120x120/">
@@ -287,9 +276,6 @@
 			</div>
 			<div class="clear"></div>
 		</section>
-
-		
-
 		<div class="clear"></div>
 	</section>
 </template>
