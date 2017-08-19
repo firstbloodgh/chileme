@@ -4,6 +4,7 @@
     <index-header></index-header>
     <index-type></index-type>
     <index-recgoods></index-recgoods>
+    <index-footer></index-footer>
   </div>
 </template>
 
@@ -12,11 +13,12 @@
 import indexHeader from "./components/IndexHeader"
 import indexType from "./components/IndexType"
 import indexRecgoods from "./components/IndexRecgoods"
+import indexFooter from "./components/IndexFooter"
 
 export default {
   name: 'app',
   components: {
-    indexHeader , indexType , indexRecgoods
+    indexHeader , indexType , indexRecgoods , indexFooter
   }
 }
 </script>
